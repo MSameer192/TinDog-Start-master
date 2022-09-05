@@ -48,7 +48,7 @@ body {
 }
 
 #features{
-    margin: 8% 0%;
+    margin-top: 8%;
 }
 .fa-solid {
     color: #ef8172;
@@ -72,5 +72,52 @@ body {
 
 .margin-bottom {
     margin-bottom: 8%; 
+}
+
+#testimonials {
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.testimonials-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #ef8172;
  
+}
+
+h2 {
+    line-height: 1.5;
+    font-size: 3rem;
+    font-family: 'montserrat-bold', sans-serif;
+    font-weight: 900;
+}
+
+#press {
+    background-color: #ef8172;   
+    padding-bottom: 3%;
+}
+
+
+.press-img {
+    width: 12%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-control-prev-icon {
+    position: absolute;
+    right: 180px;
+}
+
+.carousel-control-next-icon {
+    position: absolute;
+    left: 180px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
 }
